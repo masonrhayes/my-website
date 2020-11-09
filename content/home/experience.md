@@ -47,13 +47,25 @@ date_format = "Jan 2006"
   company = "The Oklahoma Group"
   company_url = "http://theoklahomagroup.org/wp/about"
   location = "Norman, OK"
-  date_start = "2019-01-10"
-  date_end = ""
+  date_start = "2020-01-10"
+  date_end = "2020-05-15"
   description = """
   * Provided *pro bono* consulting services to a nonprofit literacy center in the Oklahoma City area to help maximize its social impact and expand its mission
   * Created new marketing ideas and outreach techniques to increase the potential client base
   * Cleaned, analyzed, and visualized marketing and financial data in R to help the nonprofit learn how to better engage its clients
   * Publicly presented and explained research findings
+
+  """
+
+  [[experience]]
+  title = "Marketing & Business Consultant"
+  company = "scite"
+  company_url = "https://scite.ai/"
+  location = "Brooklyn, NY"
+  date_start = "2020-11-08"
+  date_end = ""
+  description = """
+  scite is an award-winning platform for discovering and evaluating scientific articles via Smart Citations. Smart Citations allow users to see how a scientific paper has been cited by providing the context of the citation and a classification describing whether it provides supporting or disputing evidence for the cited claim.
 
   """
 +++
