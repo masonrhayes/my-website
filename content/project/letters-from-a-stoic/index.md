@@ -1,15 +1,15 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Something Deeply Hidden"
+title: "Letters From a Stoic"
 summary: ""
-authors: [Sean Carroll]
+authors: [Seneca]
 tags: []
 categories: []
-date: 2020-03-11T21:44:38-05:00
+date: 2021-11-13T01:09:33+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.goodreads.com/book/show/44065062-something-deeply-hidden"
+external_link: "https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

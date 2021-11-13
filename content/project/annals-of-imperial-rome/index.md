@@ -1,15 +1,15 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Capital and Ideology"
+title: "The Annals of Imperial Rome"
 summary: ""
-authors: [Thomas Piketty]
+authors: [Tacitus]
 tags: []
 categories: []
-date: 2020-03-11T21:33:13-05:00
+date: 2021-11-13T01:15:18+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.goodreads.com/book/show/50849430-capital-and-ideology"
+external_link: "https://www.penguin.com.au/books/the-annals-of-imperial-rome-9780140440607"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -63,9 +63,26 @@ date_format = "Jan 2006"
   company_url = "https://scite.ai/"
   location = "Brooklyn, NY"
   date_start = "2020-11-08"
-  date_end = ""
+  date_end = "2021-10-01"
   description = """
-  scite is an award-winning platform for discovering and evaluating scientific articles via Smart Citations. Smart Citations allow users to see how a scientific paper has been cited by providing the context of the citation and a classification describing whether it provides supporting or disputing evidence for the cited claim.
+  - Marketing & business development for a rapidly growing science/tech startup
+  - Reaching out to potential customers and partners including journal publishers, academic institutions,pharmaceutical & biotechnology companies
+  - Creating marketing & sales collateral such as product demos and blog posts
+  - Using R and SQL in research projects
 
   """
+
+  [[experience]]
+  title = "Business Development Intern"
+  company = "MyPL"
+  company_url = "https://mypl.io/"
+  location = "Paris, FR"
+  date_start = "2021-04-12"
+  date_end = "2021-09-01"
+  description = """
+  - Business strategy and development for a health/medtech startup in Paris
+  - Market research, product positioning, and rollout
+  - Developing partnerships with hospitals, pharmaceutical companies, startups & research groups
+
+  """  
 +++

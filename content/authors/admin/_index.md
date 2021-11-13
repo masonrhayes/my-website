@@ -77,9 +77,11 @@ user_groups:
 ## Hey, I'm Mason!
 
 
-I graduated in May 2020 from the [University of Oklahoma](https://www.ou.edu/) with a Bachelor’s degree in Economics and International Studies, and I am now pursuing a Master’s degree in Economics at the [Toulouse School of Economics](https://tse-fr.eu/) while working part-time as a Marketing & Business Consultant at [scite](https://scite.ai/).
+I am now finishing a Master’s degree in Economics at the [Toulouse School of Economics](https://tse-fr.eu/), having previously graduated in May 2020 from the [University of Oklahoma](https://www.ou.edu/) with a Bachelor’s degree in Economics and International Studies.
 
-Some of my recent university projects include [capital concentration in Argentina](https://masonrhayes.com/publication/radical-party/) at the beginning of the 20th century, [populism and economic inequality in Turkey](https://masonrhayes.com/publication/populism-and-inequality-in-turkey/), the [optimization of pay-what-you-want pricing models](https://masonrhayes.com/publication/pwyw/), and the relationship between increasing [industrial concentration and inequality in the United States](https://masonrhayes.com/publication/the-inegalitarian-spiral/). 
+To see my most recent projects, you can view my [github profile](https://github.com/masonrhayes).
+
+Some of my previous university projects include [capital concentration in Argentina](https://masonrhayes.com/publication/radical-party/) at the beginning of the 20th century, [populism and economic inequality in Turkey](https://masonrhayes.com/publication/populism-and-inequality-in-turkey/), the [optimization of pay-what-you-want pricing models](https://masonrhayes.com/publication/pwyw/), and the relationship between increasing [industrial concentration and inequality in the United States](https://masonrhayes.com/publication/the-inegalitarian-spiral/). 
 
 For my personal projects, I have created an R package, [`sciteR`](https://github.com/masonrhayes/sciteR), to gather journal-level citation data from [scite](https://scite.ai), a [Shiny web app](https://masonrhayes.shinyapps.io/coronavirus_app/) to track the spread of COVID-19, and a [simple R script](https://github.com/masonrhayes/cryptocurrency_analysis) to quickly visualize cryptocurrency price trends.
 
@@ -90,7 +92,8 @@ For my personal projects, I have created an R package, [`sciteR`](https://github
 ![French (A2)](https://img.shields.io/static/v1?label=language&message=Français%20%28A2%29&color=crimson)
 
 ## Open to work
-My experience is primarily in economics, and I am searching for an internship where I can apply economic understanding alongside data science tools. For example, an internship in marketing, economic consulting, market regulation, or another related field! Preferably in France or remotely.
+
+In my Master's degree at TSE, I focus on industrial organization, with a particular interest in digital economics and business strategy. I have experience working on business strategy and development for two rapidly growing SaaS startups based in the USA and France.
 
 ## I enjoy:
 
